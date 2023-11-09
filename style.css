@@ -214,6 +214,21 @@ nav {
   color: white;
 }
 
+/* Contact Us */
+.contact {
+  min-height: 90vh;
+  display: flex;
+  flex: wrap;
+}
+
+.form-wrapper {
+  flex: 3 1 40rem;
+}
+
+.contact img {
+  flex: 1 1 40rem;
+}
+
 @media screen and (max-width: 892px) {
   .about-text div {
     padding: 3rem 3rem;
